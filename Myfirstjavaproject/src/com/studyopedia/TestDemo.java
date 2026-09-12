@@ -22,7 +22,7 @@ public class TestDemo {
 		new TestDemo();
 		
 		System.gc();
-		t.display();
+		t4.display();
 		System.gc();
 	}
 

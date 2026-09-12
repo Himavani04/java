@@ -1,13 +1,11 @@
 package com.studyopedia;
 
 public class TestDemo5 {
-	
 
 	static void method1() {
 		method2();
 		System.out.println("method1 called !!");
 	}
-
 
 	void method3() {
 		method4();
