@@ -2,7 +2,6 @@ package com.studyopedia;
 
 public class Demooperator {
 	
-	
 	void add() {
 		int a=25;
 		int b=30;
@@ -26,7 +25,6 @@ public class Demooperator {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Demooperator d=new Demooperator();
 		d.add();
 		d.sub();
