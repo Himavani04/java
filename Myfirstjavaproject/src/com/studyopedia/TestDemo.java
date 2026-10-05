@@ -14,7 +14,6 @@ public class TestDemo {
 		// TODO Auto-generated method stub
 		TestDemo t1=new TestDemo();
 		t1=null;
-	
 		TestDemo t2=new TestDemo();
 		TestDemo t3=new TestDemo();
 		TestDemo t4=new TestDemo();
